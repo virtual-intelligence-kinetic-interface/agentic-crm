@@ -46,7 +46,7 @@ No database — leads and agent logs are held in-memory with thread-safe collect
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/your-username/agentic-crm.git
+   git clone https://github.com/virtual-intelligence-kinetic-interface/agentic-crm.git
    cd agentic-crm
    ```
 
